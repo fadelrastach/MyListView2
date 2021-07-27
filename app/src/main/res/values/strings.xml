@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="name_kopis">Nama Kopi</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Kopi Susu</item>
+        <item>Kopi O</item>
+        <item>Kopi Blackbone</item>
+        <item>Kopi Cappucino</item>
+        <item>Kopi Nopen</item>
+        <item>Kopi Mochacino</item>
+        <item>Kopi Hitam</item>
+        <item>Kopi Arang</item>
+        <item>Kopi Vietnam Drip</item>
+        <item>Kopi Espresso</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Kopi yang paling disenangi oleh para penikmat kopi dan susu</item>
+        <item>Kopi O merupakan kopi yang mempunyai tingkat strong kopi yang paling kuat,
+            dikarenakan kopi tersebut tidak ditambahkan gula maupun susu.</item>
+        <item>Kopi yang merupakan kopi ciri khas dari warkop aweng,
+            memiliki rasa yang hampir sama dengan kopi susu tetapi rasanya pas untuk
+            penikmat kopi yang tidak terlalu strong.</item>
+        <item>Kopi yang sangat populer dikalangan anak muda, dikarenakan rasanya
+            yang pas dan manis, yang cocok untuk semua lidah di elemen masyarakat.
+            Saking populernya berbagai kopi kemasan telah membuat rasa kopi ini.</item>
+        <item>Kopi Nopen merupakan kopi khas toraja, punya rasa yang khas dan
+            cukup membuat jantung berdetak dan membuat mata melek.</item>
+        <item>Kopi ini juga sangat populer, rasanya seperti percampuran antara kopi dengan coklat,
+        yang menjadikannya pilihan tepat buat penikmat coklat sekaligus kopi.</item>
+        <item>Kopi yang sama dengan kopi O ini, mempunyai rasa yang paling strong dikarenakan
+        kopi 100% murni tanpa pemanis, yang dijamin bikin mata jadi melek.</item>
+        <item>Kopi ini terbilang unik dan termasuk baru, tetapi kopi ini cukup digandrungi
+        kalangan pemuda, walau belum banyak yang menjajakannya di berbagai warkop maupun cafe
+        tetapi kalau rasanya memang sangat pas.</item>
+        <item>Kopi yang sesuai namanya, yang aslinya dari negara Vietnam. Keunikannya, terletak
+        pada penyajiannya dikarenakan disajikan beserta dengan dripnya.</item>
+        <item>Kopi ini merupakan kopi yang memiliki kesan penyajian yang minimalis, dikarenakan
+        ukurannya terkadang hanya sebesar ukuran cas handphone.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/kopi_susu</item>
+        <item>@drawable/kopi_o</item>
+        <item>@drawable/kopi_blackbone</item>
+        <item>@drawable/kopi_cappucino</item>
+        <item>@drawable/kopi_nopen</item>
+        <item>@drawable/kopi_mochacino</item>
+        <item>@drawable/kopi_hitam</item>
+        <item>@drawable/kopi_arang</item>
+        <item>@drawable/kopi_vietnamdrip</item>
+        <item>@drawable/kopi_espresso</item>
+    </array>
+</resources>
